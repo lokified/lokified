@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning website development.
 - 💞️ I’m looking to collaborate on AI development.
 - 📫 How to reach me *lsheldon645@gmail.com*
-- *** Portfolio
+- ### Portfolio
 - https://lokified.github.io/my-portfolio/
 
 <!---
