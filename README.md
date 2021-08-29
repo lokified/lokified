@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning website development.
 - 💞️ I’m looking to collaborate on AI development.
 - 📫 How to reach me *lsheldon645@gmail.com*
+- *** Portfolio
+- https://lokified.github.io/my-portfolio/
 
 <!---
 lokified/lokified is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
