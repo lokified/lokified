@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @lokified
-- 👀 I’m interested in software development.
-- 🌱 I’m currently learning.
-- 📫 How to reach me *lsheldon645@gmail.com*
-- ### Portfolio
+<h1>Hi There, I'm Sheldon Okware <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+
+I'm an **Android Developer** . My day to day work involves developing applications for various problems. I'm open to collaborate on intresting projects.
+## Portfolio
 - https://lokified.github.io/my-portfolio/
+
+## Skill Set :muscle:
+
+These are some of the major technologies that I use.
 
 **Programming Languages**
 
