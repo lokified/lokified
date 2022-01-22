@@ -5,6 +5,11 @@
 - ### Portfolio
 - https://lokified.github.io/my-portfolio/
 
+**Programming Languages**
+
+<img title="Java" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
+|--|--|--|
+
 ## Some of my stats :bar_chart:
 
 <img src="https://github-readme-stats.vercel.app/api?username=lokified&show_icons=true&theme=radical&include_all_commits=true">
