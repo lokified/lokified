@@ -1,6 +1,6 @@
 <h1>Hi There, I'm Sheldon Okware <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm an **Android Developer** . My day to day work involves developing applications for various problems. I'm open to collaborate on intresting projects.
+I'm an **Android Developer** . My day to day work involves developing applications for various problems. I'm open to collaborate on interesting projects.
 ## Portfolio
 - https://lokified.github.io/my-portfolio/
 
