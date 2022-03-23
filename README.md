@@ -27,6 +27,13 @@ These are some of the major technologies that I use.
 
 <img src="https://github-readme-stats.vercel.app/api?username=lokified&show_icons=true&theme=radical&include_all_commits=true">
 
+#### Languages
+
+
+  <a href="https://github.com/omololevy/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokified&theme=highcontrast" />
+</a>
+
 <!---
 lokified/lokified is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
