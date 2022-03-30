@@ -2,7 +2,7 @@
 
 I'm an **Android Developer** . My day to day work involves developing applications for various problems. I'm open to collaborate on interesting projects.
 ## Portfolio
-- https://lokified.github.io/my-portfolio/
+- https://lokified.github.io/Sheldon-okware/
 
 ## Skill Set :muscle:
 
