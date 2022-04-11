@@ -11,12 +11,12 @@ These are some of the major technologies that I use.
 **Programming Languages**
 
 <img title="Java" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />|<img title="Kotlin" alt="kotlin" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/kotlin/kotlin.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
-|--|--|--|
+|--|--|--|--|
 
 **Libraries and Frameworks**
 
 <img title="Jquery" alt="Jquery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">|<img title="Angular" alt="Angular" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png">|<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">|<img title="Spark" alt="Spark" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/spark/spark.png">
-|--|--|--|
+|--|--|--|--|
 
 **Databases**
 
