@@ -1,6 +1,6 @@
 <h1>Hi There, I'm Sheldon Okware <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a **Software Developer** . My day to day work involves developing applications for various problems. I'm open to collaborate on interesting projects. Currently learning reactJs and kotlin in android.
+I'm a **Software Engineer** . My day to day work involves developing applications for various problems. I'm open to collaborate on interesting projects. Currently learning reactJs and kotlin in android.
 ## Portfolio
 - https://lokified.github.io/Sheldon-okware/
 
