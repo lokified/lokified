@@ -1,6 +1,6 @@
 <h1>Hi There, I'm Sheldon Okware <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm an **Android Developer** . My day to day work involves developing applications for various problems. I'm open to collaborate on interesting projects.
+I'm a **Software Developer** . My day to day work involves developing applications for various problems. I'm open to collaborate on interesting projects. Currently learning reactJs and kotlin in android.
 ## Portfolio
 - https://lokified.github.io/Sheldon-okware/
 
@@ -10,12 +10,12 @@ These are some of the major technologies that I use.
 
 **Programming Languages**
 
-<img title="Java" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
+<img title="Java" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />|<img title="Kotlin" alt="kotlin" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/kotlin/kotlin.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
 |--|--|--|
 
 **Libraries and Frameworks**
 
-<img title="Jquery" alt="Jquery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">|<img title="Angular" alt="Angular" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png">|V<img title="Spark" alt="Spark" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/spark/spark.png">
+<img title="Jquery" alt="Jquery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">|<img title="Angular" alt="Angular" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png">|<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">|<img title="Spark" alt="Spark" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/spark/spark.png">
 |--|--|--|
 
 **Databases**
