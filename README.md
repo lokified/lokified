@@ -1,6 +1,6 @@
 <h1>Hi There, I'm Sheldon Okware <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a **Software Engineer** . My day to day work involves developing applications for various problems. I'm open to collaborate on interesting projects. Currently learning reactJs and kotlin in android.
+I'm a **Software Engineer** . My day to day work involves developing applications for various problems. I'm open to collaborate on interesting projects. Currently learning reactJs, springboot and kotlin in android.
 ## Portfolio
 - https://lokified.github.io/Sheldon-okware/
 
@@ -27,10 +27,10 @@ These are some of the major technologies that I use.
 
 <img src="https://github-readme-stats.vercel.app/api?username=lokified&show_icons=true&theme=radical&include_all_commits=true">
 
-#### Languages
+## Languages
 
 
-  <a href="https://github.com/omololevy/github-readme-stats">
+  <a href="https://github.com/lokified/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokified&theme=highcontrast" />
 </a>
 
