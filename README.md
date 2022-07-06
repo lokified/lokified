@@ -1,6 +1,6 @@
-<h1>Hi There, I'm Sheldon Okware <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px"></h1>
+<h1>Hi There, I'm Sheldon Okware <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" height="40px></h1>
 
-I'm a **Software Engineer** . My day to day work involves developing applications for various problems. I'm open to collaborate on interesting projects. Currently learning springboot.
+I'm a **Mobile developer** . Currently, working with **android**.  I'm open to collaborate on interesting projects. Learning springboot too.
 ## Portfolio
 - https://lokified.github.io/Sheldon-okware/
 
