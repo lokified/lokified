@@ -1,6 +1,6 @@
 <h1>Hi There, I'm Sheldon Okware <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" height="40px"></h1>
 
-I'm a **Mobile developer** . Currently, working with **android** (Kotlin, java)  and **React-native**.  I'm open to collaborate on interesting projects. Learning springboot and compose in android.
+I'm a **Mobile developer** . Currently, working with **android** (Kotlin, java)  and **React-native**.  I'm open to collaborate on interesting projects. Learning compose in android.
 ## Portfolio
 - https://lokified.github.io/Sheldon-okware/
 
@@ -15,8 +15,8 @@ These are some of the major technologies that I use.
 
 **Libraries and Frameworks**
 
-<img title="Angular" alt="Angular" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png">|<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">|<img title="Springboot" alt="Springboot" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring-boot/spring-boot.png">
-|--|--|--|
+<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">|<img title="NodeJs" alt="NodeJs" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png">
+|--|--|
 
 **Databases**
 
