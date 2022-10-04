@@ -1,6 +1,6 @@
 <h1>Hi There, I'm Sheldon Okware <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" height="40px"></h1>
 
-I'm a **Mobile developer** . Currently, working with **android** (Kotlin, java)  and **React-native**.  I'm open to collaborate on interesting projects. Learning compose in android.
+I'm a **software engineer** . Currently, working with **android** (Kotlin, java)  and **React-native** for mobile development.  I'm open to collaborate on interesting projects. Learning compose in android.
 ## Portfolio
 - https://lokified.github.io/Sheldon-okware/
 
