@@ -6,7 +6,7 @@ I'm a **software engineer** . Currently, working with **android** (Kotlin, java)
 
 
 ## Portfolio
-- https://lokified.github.io/Sheldon-okware/
+[Profile link](https://lokified.github.io/Sheldon-okware/)
 
 ## Skill Set :muscle:
 
