@@ -1,6 +1,10 @@
 <h1>Hi There, I'm Sheldon Okware <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" height="40px"></h1>
 
 I'm a **software engineer** . Currently, working with **android** (Kotlin, java)  and **React-native** for mobile development.  I'm open to collaborate on interesting projects. Learning compose in android.
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rkwck70j2r1w3wl96d2ud5a6a&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=rkwck70j2r1w3wl96d2ud5a6a&redirect=true)
+
+
 ## Portfolio
 - https://lokified.github.io/Sheldon-okware/
 
