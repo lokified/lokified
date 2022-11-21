@@ -27,10 +27,6 @@ These are some of the major technologies that I use.
 <img title="PosgreSQL" alt="Postgresql" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png">|<img title="Firebase" alt="Firebase" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png"> <br>
 |--|--|
 
-## Some of my stats :bar_chart:
-
-<img src="https://github-readme-stats.vercel.app/api?username=lokified&show_icons=true&theme=radical&include_all_commits=true">
-
 ## Languages
 
 
