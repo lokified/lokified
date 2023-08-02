@@ -1,8 +1,6 @@
 <h1>Hi There, I'm Sheldon Okware <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" ></h1>
 
-I'm a **Android engineer**. Currently working with **Kotlin** and **Java** for mobile development.  I'm open to collaborate on interesting projects.
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rkwck70j2r1w3wl96d2ud5a6a&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=rkwck70j2r1w3wl96d2ud5a6a&redirect=true)
+I'm an **Android engineer**. Currently working with **Kotlin** and **Java** for mobile development.  I'm open to collaborate on interesting projects.
 
 ## Skill Set :muscle:
 
