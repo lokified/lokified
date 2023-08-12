@@ -1,6 +1,7 @@
 <h1>Hi There, I'm Sheldon Okware <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" ></h1>
 
-I'm an **Android engineer**. Currently working with **Kotlin** and **Java** for mobile development.  I'm open to collaborate on interesting projects.
+A **software engineer**. Architect of digital realms, molding ideas into code.
+I'm open to collaborate on interesting projects.
 
 ## Skill Set :muscle:
 
