@@ -29,6 +29,10 @@ These are some of the major technologies that I use.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokified&theme=highcontrast" />
 </a>
 
+## Contributions
+
+[![An image of @lokified's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lokified)](https://holopin.io/@lokified)
+
 <!---
 lokified/lokified is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
